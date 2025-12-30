@@ -1,0 +1,1 @@
+This project demonstrates that how unstructured data (like photos) is actually just high-dimensional numerical data under the hood, and that can be manipulated using linear algebra and slicing rather than heavy, pre-built tools.
